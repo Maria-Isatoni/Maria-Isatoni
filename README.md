@@ -20,16 +20,47 @@
 
 ---
 
-# 💻 Tecnologias
+# 💻 Tecnologias em aprendizado
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light"/>
+<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-FF69B4?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-FF1493?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
+## 📜 Certificações
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel_Básico-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/Segurança_no_Trabalho-0D1117?style=for-the-badge&logo=googlescholar&logoColor=FF1493"/>
+
+<img src="https://img.shields.io/badge/FluêncIA_Fundamentos_da_IA-0D1117?style=for-the-badge&logo=openai&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/Ética_na_Inteligência_Artificial-0D1117?style=for-the-badge&logo=brain&logoColor=FF1493"/>
+
+<img src="https://img.shields.io/badge/Por_dentro_da_Segurança_Cibernética-0D1117?style=for-the-badge&logo=protonvpn&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/Circular_Fundamentos_e_Ações_da_Economia-0D1117?style=for-the-badge&logo=greendot&logoColor=FF1493"/>
+
+<img src="https://img.shields.io/badge/Ciclos_de_Retorno_para_a_Economia_Circular-0D1117?style=for-the-badge&logo=buffer&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/Acelerando_a_Transição_para_a_Economia_Circular-0D1117?style=for-the-badge&logo=dependabot&logoColor=FF1493"/>
+
+<img src="https://img.shields.io/badge/Desvendando_a_Descarbonização-0D1117?style=for-the-badge&logo=leaflet&logoColor=FF69B4"/>
+
+</p>
 # 🌸 Atualmente estudando
 
 🌷 Desenvolvimento Web
