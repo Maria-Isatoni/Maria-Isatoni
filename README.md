@@ -79,25 +79,7 @@
 
 ---
 
-# ✨ Competências
 
-🩷 Organização
-
-🩷 Comunicação
-
-🩷 Trabalho em equipe
-
-🩷 Responsabilidade
-
-🩷 Facilidade de aprendizado
-
-🩷 Atendimento ao público
-
-🩷 Word
-
-🩷 PowerPoint
-
-🩷 Canva
 
 ---
 
